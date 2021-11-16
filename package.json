@@ -1,6 +1,6 @@
 {
   "name": "invoice-view",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "发票预览",
   "main": "src/index.js",
   "scripts": {
@@ -15,8 +15,7 @@
 },
   "keywords": [
     "css",
-    "发票模板",
-    "发票预览"
+    "发票"
   ],
   "author": "181056085@qq.com",
   "license": "ISC",

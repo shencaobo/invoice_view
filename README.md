@@ -6,11 +6,11 @@
 ### 安装使用
 
 ```js
-// npm i invoice-preview --save
+// npm i invoice-view --save
 
 // 使用
 
-import InvoiceTmp from 'invoice-preview';
+import InvoiceTmp from 'invoice-view';
 // ...
 <InvoiceTmp/>
 // ...

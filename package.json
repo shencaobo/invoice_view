@@ -1,7 +1,7 @@
 {
-  "name": "invoice-preview",
-  "version": "1.0.3",
-  "description": "国内发票预览模板",
+  "name": "invoice-view",
+  "version": "1.0.0",
+  "description": "发票预览",
   "main": "src/index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -9,12 +9,16 @@
     "deploy": "gh-pages -d examples/dist",
     "publish-demo": "npm run build && npm run deploy"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shencaobo/invoice_view"
+},
   "keywords": [
     "css",
     "发票模板",
     "发票预览"
   ],
-  "author": "",
+  "author": "181056085@qq.com",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.7.2",
